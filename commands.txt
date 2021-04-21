@@ -4,4 +4,6 @@
 4. git add <filename> - to add a specific file to local repository
 5. git add . - to add multiple files to local repository 
 6. git commit -am "added commands file" - Will commit our changes to local repository
+                               OR 
+   git commit -m "added commands file" - Will commit our changes to local repository
 7. git push origin master - Will push our local repository changes to remote repository
