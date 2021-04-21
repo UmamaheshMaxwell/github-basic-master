@@ -7,3 +7,4 @@
                                OR 
    git commit -m "added commands file" - Will commit our changes to local repository
 7. git push origin master - Will push our local repository changes to remote repository
+8  git pull origin master - To pull the changes from remote repository
