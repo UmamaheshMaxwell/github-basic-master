@@ -1,0 +1,5 @@
+1. git init - Initialize the repository 
+2. git remote add origin <URL> - It will establish a communication between local repository and remote repository
+3. git status - shows this files which are untracked ( newly added) or modified
+4. git add <filename> - to add a specific file to local repository
+5. git add . - to add multiple files to local repository 
